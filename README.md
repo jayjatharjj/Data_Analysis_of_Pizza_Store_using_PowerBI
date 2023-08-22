@@ -13,12 +13,11 @@
 
 # Steps in Project
 **Step 1:** Importing raw data in MySQL server
-
-Create a new schema in MySQL Workbench
-
-Open Table Data Import Wizard
-
-Select the csv file as raw data and import
+<ul>
+  <li>Create a new schema in MySQL Workbench</li>
+  <li>Open Table Data Import Wizard</li>
+  <li>Select the csv file as raw data and import</li>
+</ul>
 
 **Step 2:** Writing SQL queries according to client or business requirement
 
