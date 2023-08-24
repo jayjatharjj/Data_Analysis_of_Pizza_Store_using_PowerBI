@@ -22,7 +22,7 @@
 **Step 2:** Writing SQL queries according to client or business requirement
 <ul>
   <li>Write query to get the desired output</li>
-  <li>Answer the questions according to KPI's requirement using sql<li>
+  <li>Answer the questions according to KPI's requirement using sql</li>
 </ul>
 
 **Step 3:** Creating report from MySQL server
