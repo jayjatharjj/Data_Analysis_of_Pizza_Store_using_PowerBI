@@ -27,7 +27,7 @@
 
 **Step 3:** Creating report from MySQL server
 <ul>
-  <li>Create a documentation of the results<li>
+  <li>Create a documentation of the results</li>
   <li>This report will help for cross checking the results from power bi with the results from MySQL</li>
 </ul>
 
