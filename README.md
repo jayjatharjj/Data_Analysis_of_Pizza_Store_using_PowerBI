@@ -20,10 +20,22 @@
 </ul>
 
 **Step 2:** Writing SQL queries according to client or business requirement
+<ul>
+  <li>Write query to get the desired output</li>
+  <li>Answer the questions according to KPI's requirement using sql<li>
+</ul>
 
 **Step 3:** Creating report from MySQL server
+<ul>
+  <li>Create a documentation of the results<li>
+  <li>This report will help for cross checking the results from power bi with the results from MySQL</li>
+</ul>
 
 **Step 4:** Connecting MySQL server with Power BI
+<ul>
+  <li>Open power bi and import data from MySQL database</li>
+  <li>You will need to install MySQL connector</li>
+</ul>
 
 **Step 5:** Data cleaning using power query tool 
 
