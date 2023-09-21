@@ -56,7 +56,7 @@ If you have any questions, suggestions, or feedback, don't hesitate to reach out
 ## Languages and Tools
 
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" /></a>
+<a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="c" width="40" height="40"/></a>
 
 ---
 
